@@ -1,6 +1,6 @@
 {
   "name": "c-quote-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My Project",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

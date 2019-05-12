@@ -1,0 +1,22 @@
+{
+  "name": "c-quote-types",
+  "version": "1.0.0",
+  "description": "My Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studygcs/c-quote-types.git"
+  },
+  "author": "cs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/studygcs/c-quote-types/issues"
+  },
+  "homepage": "https://github.com/studygcs/c-quote-types#readme",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
